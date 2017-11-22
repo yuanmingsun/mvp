@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#00B162</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorCeng">#FF9A46</color>
+    <color name="colorGray">#9B9B9B</color>
+    <color name="colorGrayBlack">#5D5D5D</color>
+    <color name="colorGrayWhite">#F8F8F8</color>
+    <color name="colorGreen">#08C970</color>
+    <color name="colorOrange">#F55923</color>
+    <color name="colorPrimary">#00B162</color>
+    <color name="colorPrimaryDark">#DDDDDD</color>
+    <color name="colorRed">#FF5A6A</color>
+    <color name="colorShadowBlack">#4A4A4A</color>
+    <color name="colorShadowWhite">#B1B1B1</color>
+    <color name="colorSix">#666666</color>
+    <color name="colorThirdBlack">#4C000000</color>
+    <color name="colorTranparent">#00FFFFFF</color>
+    <color name="colorTransparent">#88000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite2">#DDDDDD</color>
+    <color name="colorWhite3">#DBDBDB</color>
+    <color name="colorWhite4">#F8F8F8</color>
+    <color name="gray_4A">#4A4A4A</color>
+    <color name="gray_5D">#5D5D5D</color>
+    <color name="gray_F8">#F8F8F8</color>
+    <string name="app_name">appmvp</string>
+</resources>
